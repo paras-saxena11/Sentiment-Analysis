@@ -59,7 +59,7 @@ Finally we evaluate the model by getting accuracy, classification report and con
 ## <br>**➲ Installation**
 1. Clone the repo
    ```sh
-   git clone https://github.com/omaarelsherif/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning.git
+   git clone https://github.com/paras-saxena11/Sentiment-Analysis
    ```
 2. Run the code from cmd
    ```sh
@@ -96,17 +96,3 @@ Now let's see the project output after running the code :
 
 **Models accuracy :**<br>
 ![](/Images/Output_9_Models_Accuracy.png)<br>
-
-<!-- REFERENCES -->
-## <br>**➲ References**
-These links may help you to better understanding of the project idea and techniques used :
-1. Natural Language Processing (NLP) : https://ibm.co/38bN03T
-2. Sentiment analysis : https://bit.ly/3yi9BGq
-3. Naive Bayes classifier : https://bit.ly/3zhoWIO
-4. Model evaluation : https://bit.ly/3B12VOO
-
-<!-- CONTACT -->
-## <br>**➲ Contact**
-- E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
-- Facebook : https://www.facebook.com/omaarelshereif
